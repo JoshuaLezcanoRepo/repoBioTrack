@@ -1,0 +1,20 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontFaces]]
+family = "readex-sans"
+url = "app/static/ReadexPro-Regular.ttf"
+style = "normal"
+weight = "400"
+
+[[theme.fontFaces]]
+family = "readex-sans"
+url = "app/static/ReadexPro-Bold.ttf"
+style = "normal"
+weight = "700"
+
+[theme]
+base = "light"
+primaryColor = "#00be5c"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#ffffff"
